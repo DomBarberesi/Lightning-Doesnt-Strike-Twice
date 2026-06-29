@@ -1,4 +1,4 @@
-#Lightning Doesn't Strike Twice
+Lightning Doesn't Strike Twice
 
 Copyright (c) 2026 Dominic Barberesi
 
